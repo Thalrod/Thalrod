@@ -1,16 +1,18 @@
-### Hi there 👋
+Yo 😃!
+I'm Thalrod
 
-<!--
-**Thalrod/Thalrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### There are my socials:
+<p align=center>
+  <a href="https://dsc.bio/thalrod_"><img src="https://raw.githubusercontent.com/Thalrod/Thalrod/main/images/discord.png" width="200" /></a>
+  <a href="https://twitter.com/Thalrod"><img src="https://raw.githubusercontent.com/Thalrod/Thalrod/main/images/twitter.png" width="200" /></a>
+</p>
 
-Here are some ideas to get you started:
+### What i'm currently working on ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My website 
+ <a href="thalrod.github.io">thalrod.github.io</a> (It's still WIP and not finished at all)
+
+<p align=center>
+  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=Thalrod&show_icons=true&count_private=true&theme=dracula" />
+  <br /><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalrod&theme=dracula&card_width=800" />
+</p>
