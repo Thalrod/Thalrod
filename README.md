@@ -1,10 +1,10 @@
-Yo 😃!
+Hey 😃!
 I'm Thalrod
 
 ### There are my socials:
 <p align=center>
-  <a href="https://dsc.bio/thalrod_"><img src="https://raw.githubusercontent.com/Thalrod/Thalrod/main/discord.png" width="200" /></a>
-  <a href="https://twitter.com/Thalrod"><img src="https://raw.githubusercontent.com/Thalrod/Thalrod/main/Twitter.png" width="200" /></a>
+  <a href="https://dsc.bio/thalrod_"><img src="https://raw.githubusercontent.com/Thalrod/Thalrod/main/images/discord.png" width="200" /></a>
+  <a href="https://twitter.com/Thalrod"><img src="https://raw.githubusercontent.com/Thalrod/Thalrod/main/images/Twitter.png" width="200" /></a>
 </p>
 
 ### What i'm currently working on ?
