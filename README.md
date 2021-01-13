@@ -9,8 +9,7 @@ I'm Thalrod
 
 ### What i'm currently working on ?
 
-### My website 
- <a href="thalrod.github.io">thalrod.github.io</a> (It's still WIP and not finished at all)
+### My website: https://thalrod.github.io/ (It's still WIP and not finished at all)
 
 <p align=center>
   <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=Thalrod&show_icons=true&count_private=true&theme=dracula" />
