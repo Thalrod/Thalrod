@@ -8,7 +8,7 @@ I'm Thalrod
 </p>
 
 ### What i'm currently working on ?
-### On a 2D game in python using opengl and pygame but idk if it will be released one day ¯C#\_(ツ)_/¯
+### On a 2D game in python using opengl and pygame but idk if it will be released one day ¯&bsol\_(ツ)_/¯
 ### My website: https://thalrod.github.io/ (It's still WIP and not finished at all)
 
 <p align=center>
